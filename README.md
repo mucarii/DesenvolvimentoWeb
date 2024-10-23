@@ -1,4 +1,4 @@
-# Projetos de Front-End
+# Projetos web
 
 Este repositório contém links para meus projetos relacionados a desenvolvimento web.
 
