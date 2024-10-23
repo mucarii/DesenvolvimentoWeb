@@ -1,6 +1,6 @@
 # Projetos de Front-End
 
-Este repositório contém links para meus projetos relacionados a desenvolvimento front-end.
+Este repositório contém links para meus projetos relacionados a desenvolvimento web.
 
 ## Repositórios
 
