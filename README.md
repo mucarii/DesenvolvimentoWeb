@@ -33,5 +33,5 @@ Se você tiver sugestões, melhorias ou correções, sinta-se à vontade para ab
 Se você deseja discutir sobre um projeto, colaborar ou tem alguma dúvida, sinta-se à vontade para entrar em contato comigo:
 
 - Email: murilo.l.calore.r@gmail.com
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/murilo-calore)
+- LinkedIn: [Murilo Calore](https://www.linkedin.com/in/murilo-calore)
 
